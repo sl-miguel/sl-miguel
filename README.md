@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sl-miguel
+- 👋 Hi, I’m Miguel S.
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Web Components.
 - 💞️ I'm in love with foxes.
